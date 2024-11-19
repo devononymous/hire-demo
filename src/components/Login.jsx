@@ -104,7 +104,7 @@ const Login = () => {
               <Link to="/signup" style={{ textDecoration: 'none', color: '#1976d2' }}>
                 Sign Up
               </Link>
-            </Typography>
+            </Typography> 
           </Box>
         </Box>
       </Box>
